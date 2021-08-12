@@ -1,3 +1,3 @@
 output "one_null_resource" {
-  value = null_resource.root.id
+  value = null_resource.one.id
 }

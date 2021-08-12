@@ -1,2 +1,4 @@
 # terraform-null-terragrunt-registry-test
-Simple module with null_resource for testing terragrunt functionality with module registry.
+
+This repository contains a simple terraform module with a single `null_resource` that can be used for testing terragrunt
+functionality with a module registry.
